@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.191.0",
+    "version":  "1.0.192.0",
     "url":  "https://raw.githubusercontent.com/gerardoscr/MonitorSQL-Updates/main/MonitorSQL.exe",
-    "sha256":  "9249541844AE2FDA272EF3B236590D6359D9C85C0154B87B35FCF9B16725AF69",
+    "sha256":  "5E775DE45AFAE47E1F089FD315307519E244844C78A913D6AE550EF630656205",
     "watchdogUrl":  "https://raw.githubusercontent.com/gerardoscr/MonitorSQL-Updates/main/MonitorSQLWatchdog.exe",
     "watchdogSha256":  "0C240087892C5E4600EAB43B841CFD93E72131C92EA019A67511DBCD4850FBA6"
 }
